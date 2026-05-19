@@ -14,29 +14,27 @@
 
 # 👨‍💻 About Me
 
-🎓 Student at **Benha Faculty of Computers & Artificial Intelligence**
+🎓 Student at **Sana'a University - Faculty of Computers & Information Technology**
 
-💻 Passionate about **Software Development**
+💻 Interested in **Programming & Software Development** 
 
-📚 Focused on :
-
- 🔹 C++  
- 🔹 Object-Oriented Programming  
- 🔹 Data Structures  
- 🔹 Algorithms & Problem Solving  
+📚 Focused on:
+🔹 C++ 
+🔹 Object-Oriented Programming 
+🔹 Data Structures 
+🔹 Algorithms & Problem Solving 
 
 📈 Currently expanding into:
+🔹 C# 
+🔹 .NET Development 
+🔹 Windows Forms 
+🔹 SQL Server 
 
- 🔹 C#  
- 🔹 .NET Development  
- 🔹 Windows Forms  
- 🔹 SQL Server  
+🌐 Documenting my coding journey and building projects on **LinkedIn**
 
-📍 Following **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
+📍 Following **ProgrammingAdvices Roadmap** 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
 ---
-
 # 🛠 Skills & Tools
 
 <p align="center">
